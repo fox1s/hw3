@@ -1,0 +1,12 @@
+.home-main-text {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Times New Roman", serif;
+}
+
+.home-div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
